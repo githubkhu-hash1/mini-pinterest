@@ -7,17 +7,18 @@ It is a project that emulates core features of Pinterest, developed using modern
 
 Key Features:
 
-Svelte Framework: Utilized for building reactive and efficient user interfaces.
-ShadCN and Tailwind CSS: Employed for consistent and customizable styling.
-TypeScript: Ensures type safety and enhances code maintainability.
-Firebase Integration: Provides backend services such as authentication and database management.
-Uploadthing: Manages file uploads seamlessly.
-Development Instructions:
+* Svelte Framework: Utilized for building reactive and efficient user interfaces.
+* ShadCN and Tailwind CSS: Employed for consistent and customizable styling.
+* TypeScript: Ensures type safety and enhances code maintainability.
+* Firebase Integration: Provides backend services such as authentication and database management.
+* Uploadthing: Manages file uploads seamlessly.
 
-Installation: Clone the repository and install dependencies using npm install.
-Development Server: Start the server with npm run dev. To open the app in a new browser tab automatically, use npm run dev -- --open.
-Building for Production: Generate a production-ready build with npm run build. Preview the build using npm run preview.
-For deployment, consider installing an appropriate adapter for your target environment.
+# Development Instructions:
+
+* Installation: Clone the repository and install dependencies using npm install.
+* Development Server: Start the server with npm run dev. To open the app in a new browser tab automatically, use npm run dev -- --open.
+* Building for Production: Generate a production-ready build with npm run build. Preview the build using npm run preview.
+* For deployment, consider installing an appropriate adapter for your target environment.
 
 ## Developing
 
